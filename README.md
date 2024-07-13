@@ -1,26 +1,21 @@
- * Challenge:
- * 1. Ask OpenAI to explain something complicated 
- *    to you. For example Quantum Computing.
- * 
- * Prompt Engineering Stretch Goals
- * - See if you can control the level of complexity of 
- *   the generated content, for example is this for 
- *   10-year-olds or college kids?
- * - See if you can control the length of the output.
- * 
+# 📈 Stock Prediction AI App
 
-1. You will need to set up a new instance of OpenAI and remember to set dangerouslyAllowBrowser.
+![GitHub repo](https://img.shields.io/badge/GitHub-Ash914027/stock--predicition--ai--app-blue)
 
-2. You will need to call the chat.completions.create endpoint and pass in an array of messages and a model.
+This GitHub repository is for a **stock prediction AI application**. The project aims to create an application that can predict stock prices using artificial intelligence techniques.
 
-3. The array of messages needs two objects, both with 'role' and 'content' keys. The 'system' object should hold an instruction. The 'user' object should hold the data that is coming in to fetchReport as a parameter. 
+### 🎯 Main Function Points
+- Develop an AI-based application to predict stock prices
+- Utilize various AI and machine learning techniques for stock price prediction
 
-4. You might have to experiment with the instructions you give the model to get a report you are happy with. For now, don't worry too much about the quality of the report as we will do some tweaking later. 
+### 🛠️ Technology Stack
+- JavaScript
+- CSS
+- HTML
+- Node.js
 
-5. Call renderReport with the text you get back from the OpenAI API.
-
-6. For bonus points, use a try catch to handle errors.
-
+### 📄 License
+The project does not specify a license, so the default copyright applies.
 
 ![stock_ai_app](https://github.com/user-attachments/assets/80402054-ec66-4867-a847-156dc0dcd74f)
 # stock-predicition-ai-app
