@@ -2,7 +2,7 @@
 
 ![GitHub repo](https://img.shields.io/badge/GitHub-Ash914027/stock--predicition--ai--app-blue)
 
-This GitHub repository is for a **stock prediction AI application**. The project aims to create an application that can predict stock prices using artificial intelligence techniques.
+This GitHub repository is for a **stock prediction AI application**. The project aims to create an application that can predict stock prices using artificial intelligence techniques..
 
 ### 🎯 Main Function Points
 - Develop an AI-based application to predict stock prices
