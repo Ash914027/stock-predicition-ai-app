@@ -1,4 +1,4 @@
-# 📈 Stock Prediction AI App
+# 📈 Stock Prediction AI App.
 
 ![GitHub repo](https://img.shields.io/badge/GitHub-Ash914027/stock--predicition--ai--app-blue)
 
