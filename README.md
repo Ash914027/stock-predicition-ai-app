@@ -4,7 +4,7 @@
 
 This GitHub repository is for a **stock prediction AI application**. The project aims to create an application that can predict stock prices using artificial intelligence techniques..
 
-### 🎯 Main Function Points.
+### 🎯 Main Function Points
 - Develop an AI-based application to predict stock prices
 - Utilize various AI and machine learning techniques for stock price prediction.
 
